@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="256" viewBox="0 0 512 256">
+  <defs>
+    <linearGradient id="flame" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F5F1E8"/>
+      <stop offset="0.62" stop-color="#D7B66E"/>
+      <stop offset="1" stop-color="#FF6B4A"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.75"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="256" rx="24" fill="#14162B"/>
+
+  <!-- stylized dragon/crest emblem -->
+  <g transform="translate(44 6)" filter="url(#shadow)">
+    <path d="M24 210 L64 14 L112 120 L132 18 L174 138 L215 12 L235 170 L256 44 L278 210 Z" fill="none" stroke="#BCA98A" stroke-width="2" opacity="0.95"/>
+    <path d="M50 160 L64 14 L112 120 L132 18 L174 138 L215 12 L235 170" fill="none" stroke="#6A6B82" stroke-width="2" opacity="0.85"/>
+    <path d="M48 155 L60 120 L86 112 L102 84 L122 105 L144 100 L168 70 L194 112 L216 98 L236 124 L252 126" fill="none" stroke="#F5F1E8" stroke-width="2" opacity="0.75"/>
+    <path d="M94 91 L75 113 L118 119 Z" fill="#FF6B4A" opacity="0.9"/>
+    <path d="M157 96 L151 126 L192 119 Z" fill="#FF6B4A" opacity="0.88"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="256" y="194"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-weight="700"
+        font-size="80"
+        letter-spacing="4"
+        fill="url(#flame)"
+        stroke="#201B32"
+        stroke-width="2">
+    ARISE
+  </text>
+
+  <!-- underline / marker -->
+  <path d="M112 212 C170 238 340 238 400 212" fill="none" stroke="#B07A45" stroke-width="3" opacity="0.9"/>
+</svg>
