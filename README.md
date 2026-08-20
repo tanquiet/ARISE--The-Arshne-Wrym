@@ -1,4 +1,5 @@
-<img width="1376" height="768" alt="1f1e031f-f843-481c-93b3-d984164f5f9c" src="https://github.com/user-attachments/assets/210f5dc9-fe35-4c72-ab45-f49c6d48d933" />
+<img width="1179" height="538" alt="af73580b-1ba8-46f8-a496-48c324b5ea6d" src="https://github.com/user-attachments/assets/d0e09402-5f03-40ed-bd73-8f601bf8bc23" />
+
 # ARISE: The Arshne Wrym 🐉
 
 A gamified habit tracker where sticking to your habits helps you progress and unlock rewards — day by day, one streak at a time.
