@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ad454550-fb34-4db6-8677-3c96f3cca150
+
 <img width="1179" height="538" alt="af73580b-1ba8-46f8-a496-48c324b5ea6d" src="https://github.com/user-attachments/assets/d0e09402-5f03-40ed-bd73-8f601bf8bc23" />
 
 # ARISE: The Arshne Wrym 🐉
