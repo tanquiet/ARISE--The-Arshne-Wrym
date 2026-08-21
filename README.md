@@ -57,7 +57,11 @@ ARISE--The-Arshne-Wrym/
 - [ ] Streak stats and history view
 - [ ] Mobile-friendly polish
 
-## Contributing
+## 👨‍💻 Author
+
+**Tanish**
+
+GitHub: https://github.com/tanquiet
 
 This project is early-stage and evolving. Issues and pull requests are welcome.
 
